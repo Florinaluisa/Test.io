@@ -60,4 +60,6 @@ ul.posts li {
 .header{
     background-color: rgb(123,203,184);
     font-family: 'Chango', cursive;
+    text-align: center;
+    padding: 10px;
 }
