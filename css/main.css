@@ -19,6 +19,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
+<link rel="preconnect" href="https://fonts.gstatic.com"> 
+<link href="https://fonts.googleapis.com/css2?family=Chango&display=swap" rel="stylesheet">
 h1 {
     font-size: 3em;
     font-family:'Chango', cursive;
