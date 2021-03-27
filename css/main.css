@@ -63,3 +63,7 @@ ul.posts li {
     text-align: center;
     padding: 10px;
 }
+#grad{
+    height:200px;
+    background-image: linear-gradient(rgb(123,203,184),white);
+}
