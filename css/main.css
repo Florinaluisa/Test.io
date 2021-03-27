@@ -56,3 +56,8 @@ ul.posts li {
     font-family:'Roboto', sans-serif;
     list-style: none;
 }
+
+.header{
+    background-color: rgb(123,203,184);
+    font-family: 'Chango', cursive;
+}
