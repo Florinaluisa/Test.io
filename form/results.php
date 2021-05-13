@@ -20,13 +20,13 @@ function test_input($data) {
 
 <?php
 echo "<h2>Your Input:</h2>";
-echo $name;
+echo test_input($name);
 echo "<br>";
-echo $email;
+echo test_input($email);
 echo "<br>";
-echo $website;
+echo test_input($website);
 echo "<br>";
-echo $comment;
+echo test_input($comment);
 echo "<br>";
-echo $gender;
+echo test_input($gender);
 ?>
